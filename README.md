@@ -1,4 +1,4 @@
-# Growth-Mindset-notes
+> Growth-Mindset-notes
 
 <h1> Subheading 1: Definition </h1>
 <p> A growth mindset is being of the opinion that you can <br>
