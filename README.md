@@ -1,16 +1,7 @@
 # Growth-Mindset-notes
 
-##heading
-notes
-
-###subheading
-notes
-
-
-
-###subheading
-
-
-
-
-###subheading
+<ul>
+  <li> subheading 1</li>
+  <li>subheading 2</li>
+  <li>subheading 3</li>
+  </ui>
