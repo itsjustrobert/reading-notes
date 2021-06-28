@@ -23,5 +23,5 @@
   <li> I will commit to learning in new ways</li>
   <li> I will get enough sleep </li>
 </ul>
-[my personal link] (https://github.com/itsjustrobert)
+ [my personal link] (https://github.com/itsjustrobert)
 
