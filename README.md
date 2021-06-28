@@ -23,5 +23,6 @@
   <li> I will commit to learning in new ways</li>
   <li> I will get enough sleep </li>
 </ul>
-https://github.com/itsjustrobert
+<href="
+https://github.com/itsjustrobert"> MY PERSONAL PROFILE! </a>
 
