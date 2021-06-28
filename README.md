@@ -18,4 +18,10 @@
   With Path learning you are led and taught by someone<br> however the scope of your learning is totally dependent <br> on the path.<br>
   <strong><em> SANDBOX LEARNING </em></strong> on the other hand is where you are taught by experiencing what you learn<br> The beauty of it however is that you become an active contributor to your own learning.<br> These two types of learning, despite their obvious differences are critical in effective learning.  
   </p>
+  <ul>
+  <li> I will lawys be open minded</li>
+  <li> I will commit to learning in new ways</li>
+  <li> I will get enough sleep </li>
+</ul>
 https://github.com/itsjustrobert
+
