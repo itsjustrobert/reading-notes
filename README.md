@@ -23,5 +23,6 @@
   <li> I will commit to learning in new ways</li>
   <li> I will get enough sleep </li>
 </ul>
- [my personal link](https://github.com/itsjustrobert)
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
