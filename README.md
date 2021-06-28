@@ -24,5 +24,5 @@
   <li> I will get enough sleep </li>
 </ul>
 
- [My Personal Profile]( https://github.com/itsjustrobert).
+ [My Personal Profile](https://github.com/itsjustrobert).
 
