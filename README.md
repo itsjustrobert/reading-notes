@@ -26,4 +26,4 @@
 
 Check Out [My Personal Profile](https://github.com/itsjustrobert).
 
-[markdown notes](Markdown)
+[markdown notes](project\code102\reading-notes\Markdown.md)
