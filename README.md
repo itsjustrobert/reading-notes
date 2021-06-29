@@ -29,14 +29,9 @@ Check Out [My Personal Profile](https://github.com/itsjustrobert).
 <h3>
 hello world!
 </h3>
-<<<<<<< HEAD
 jelly
 kelly
 melly
 smelly
 telly
-=======
-jaks
-jills
->>>>>>> 8042c10a76bb6fb73c0152203231873cc5c8b1e3
 
