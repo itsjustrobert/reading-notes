@@ -1,0 +1,11 @@
+<h1>REVISIONS AND THE CLOUD</h1>
+<hr>
+<h2><strong> WHAT IS GIT? </strong><h2>
+<p> Git is a version control system that allows you to make changes inside of a document stored inside your computer without making them in real time. It makes collaboraion possible and not messy <p>
+<hr>
+<h2><strong> SOME IMPORTANT COMMANDS </strong></h2> 
+<ul>
+<li><em> git add .</em>  This command allows the user to add changes made on his/her version of the document</li>
+<li><em> git commit -m "example"</em> This command allows the user to set changes that are to be made </li>
+<li><em>git push<em> this command allows the user to push the changes through and will be saved as a version of the document</li>
+</ul>

@@ -4,7 +4,7 @@
 <p> A growth mindset is being of the opinion that you can <br>
   forever grow and learn new things<p>
     as opposed to the fixed mindset that says you peak at a certain point.
-  </p>
+  </p> l
   <h2>
   Subheading 2: The learning Pit
   </h2>
