@@ -3,7 +3,8 @@
 > 1.Introduction <br>
 > 2.Markdown Notes<br>
 > 3.Growth Mindset Notes<br>
-> 4.Revisions and the Cloud<br> 5.<br>
+> 4.Revisions and the Cloud<br> 
+> 5.Java Script Notes<br>
 
 <hr>
 <strong>Introduction</strong>
