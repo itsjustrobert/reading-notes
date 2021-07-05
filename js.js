@@ -103,22 +103,22 @@
 // ask the user to enter a number 1 and 10 and then teel them if they gessed correctly
 
 
-var number = prompt("guess a number between 1 and 10");
-var correctNumber = 9;
-if(correctNumber == number){
-    alert("you guessed correctly")
-    if(number > correctNumber){
-        alert("your number is too high");
-        if(number < correctNumber){
-            alert('your number is too low');
-        }
-    }}
+// var number = prompt("guess a number between 1 and 10");
+// var correctNumber = 9;
+// if(correctNumber == number){
+//     alert("you guessed correctly")
+//     if(number > correctNumber){
+//         alert("your number is too high");
+//         if(number < correctNumber){
+//             alert('your number is too low');
+//         }
+//     }}
 
-    // loop for game
+//     // loop for game
 
-    let stopGuessing = false;
+//     let stopGuessing = false;
 
-    while( !stopGuessing){
-        stopGuessing = number();
-    }
+//     while( !stopGuessing){
+//         stopGuessing = number();
+//     }
     
