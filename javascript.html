@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+</head>
+<body>
+
+
+
+  <h1>JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.<br> While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat.<br> JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.</h1>
+<hr>
+ 
+<h1>
+A FEW COMMANDS TO INTERACT WITH THE USER:</h1>
+
+ <h2>Alert<h2> <br>
+ *alert("Hello");
+The mini-window with the message is called a modal window.<br>
+ The word “modal” means that the visitor can’t interact with<br>
+  the rest of the page, press other buttons, etc, until they have dealt with the window.<br>
+   In this case – until they press “OK”.*<br>
+<hr>
+   <h2> prompt</h2><br>
+   *The function prompt accepts two arguments:<br>
+    result = prompt(title, [default]);<br>
+    It shows a modal window with a text message, an input field for the visitor, and the buttons OK/Cancel.*<br>
+
+   <h2>Confirm<h2>
+      *shows a message and waits for the user to press “OK” or “Cancel”. It returns true for OK and false for Cancel/Esc.
+       All these methods are modal: they pause script execution and don’t allow the visitor to interact with the rest of the page until the window has been dismissed.*
+
+<hr>
+
+<h1>
+Conditional Branching
+</h1>
+<vr>
+
+>Sometimes, we need to perform different actions based on different conditions.
+
+>To do that, we can use the if statement and the conditional operator ?, that’s also called a “question mark” operator.
+
+<h1>The “if” statement</h1>
+
+>The if(...) statement evaluates a condition in parentheses and, if the result is <br>
+true, executes a block of code.<br>
+
+<vr>
+
+ 
+>>>For example:<br>
+
+let year = prompt('In which year was ECMAScript-2015 specification <br>
+
+published?', '');<br>
+
+
+if (year == 2015) alert( 'You are right!' );<br>
+
+In the example above, the condition is a simple equality check > <br>
+
+(year == 2015), but it can be much more complex.<br>
+
+>>>if we want to execute more than one statement, we have to wrap our code block inside curly braces:<br>
+
+ (year == 2015) {<br>
+  alert( "That's correct!" );<br>
+  alert( "You're so smart!");<br>
+ <hr>
+<h1>
+The "else" Clause
+</h1>
+
+>The “else” clause<br>
+The if statement may contain an optional “else” block. It executes when the condition is falsy.<br>
+
+For example:<br>
+
+let year = prompt('In which year was the ECMAScript-2015 specification published?', '');<br>
+
+if (year == 2015) {<br>
+
+  alert( 'You guessed it right!' );<br>
+
+} else {<br>
+
+  alert( 'How can you be so wrong?' ); // any value except 2015<br>
+
+}
+
+
+<h1>several conditions: “else if”</h1>
+
+>Sometimes, we’d like to test several variants of a condition. The else if clause lets us do that.<br>
+For example:
+
+let year = prompt('In which year was the ECMAScript-2015 specification published?', '');<br>
+
+if (year < 2015) {<br>
+
+  alert( 'Too early...' );<br>
+
+} else if (year > 2015) {<br>
+ 
+  alert( 'Too late' );<br>
+
+} else {<br>
+
+  alert( 'Exactly!' );<br>
+
+}
+</body>
+</html>
