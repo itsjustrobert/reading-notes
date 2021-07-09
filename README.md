@@ -19,11 +19,11 @@ because I think that I have a chance to <br>
 change the trajectory of my family and move us <br>
 into a better style of living.</em>
 </p>
-[Markdown notes](https://itsjustrobert.github.io/reading-notes/Markdown.html)
-[growth notes](https://itsjustrobert.github.io/reading-notes/growth-notes.html)
-[Revisions and The Cloud](https://itsjustrobert.github.io/reading-notes/Revisions-and-the-Cloud)
-[JavaScript Notes](https://itsjustrobert.github.io/reading-notes/javascript.html)
-[HTML Notes](https://itsjustrobert.github.io/reading-notes/html-notes.html)
-[Operators and Loops Notes](https://itsjustrobert.github.io/reading-notes/operators-and-loops.html)
-[The Coder's Computer](https://itsjustrobert.github.io/reading-notes/the-coder%27s-computer.html)
+[Markdown notes](https://itsjustrobert.github.io/reading-notes/Markdown.html) <br>
+[growth notes](https://itsjustrobert.github.io/reading-notes/growth-notes.html) <br>
+[Revisions and The Cloud](https://itsjustrobert.github.io/reading-notes/Revisions-and-the-Cloud) <br>
+[JavaScript Notes](https://itsjustrobert.github.io/reading-notes/javascript.html) <br>
+[HTML Notes](https://itsjustrobert.github.io/reading-notes/html-notes.html) <br>
+[Operators and Loops Notes](https://itsjustrobert.github.io/reading-notes/operators-and-loops.html) <br>
+[The Coder's Computer](https://itsjustrobert.github.io/reading-notes/the-coder%27s-computer.html) <br>
 [CSS Notes](https://itsjustrobert.github.io/reading-notes/CSS-Notes.html)
