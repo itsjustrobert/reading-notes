@@ -11,6 +11,25 @@
 > 1.7.CSS Notes<br>
 > 1.8.HTML Notes
 
+# 2.CODE 201 Reading Notes
+> 2.1. <br>
+> 2.2. <br>
+> 2.3. <br>
+> 2.4. <br>
+> 2.5. <br>
+> 2.6. <br>
+> 2.7. <br>
+> 2.8.<br>
+> 2.9.<br>
+> 2.10.<br>
+> 2.11.<br>
+> 2.12.<br>
+> 2.13.<br>
+> 2.14.<br>
+> 2.15.<br>
+
+
+
 <hr>
 <strong>Introduction</strong>
 <hr>
@@ -39,3 +58,38 @@ into a better style of living.</em>
 >[CSS Notes](https://itsjustrobert.github.io/reading-notes/CSS-Notes.html)
 
  <vr>
+
+ # *CODE 201 Reading Notes*
+ 
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ >
+
+ <vr>
+
