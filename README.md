@@ -1,6 +1,7 @@
 # Table of Contents
 
 > Introduction <br>
+>About Me<br>
 # 1. CODE 102 Reading Notes
 > 1.1.Markdown Notes<br>
 > 1.2.Growth Mindset Notes<br>
@@ -39,6 +40,20 @@ because I think that I have a chance to <br>
 change the trajectory of my family and move us <br>
 into a better style of living.</em>
 </p>
+
+<hr>
+
+
+
+# ABOUT ME!
+> Hi! my name is Robert Armstrong.<br>
+>I am 23 years old, and an aspiring Softwre Developer.<br>
+>I was born and raised in Memphis,TN.<br>
+>I plan to use the skills I am learning<br>
+>to make an impact on the world around me<br>
+>and to change the course of my life<br>
+
+<hr>
 
 # *CODE 102 READING NOTES*
 >[Markdown notes](https://itsjustrobert.github.io/reading-notes/Markdown.html)<br>
